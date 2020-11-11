@@ -14,4 +14,6 @@ data_train['year'] = data_train['date'].dt.year
 data_train.head()
 data_train['date'].max()
 
+## add more analysis
+
 ### EDIT FOR NEW BRANCH ###
